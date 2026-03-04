@@ -31,6 +31,10 @@ Design and implementation of a scalable "Wealth-Pilot" AI engine enabling:
 ### Recommendation
 Launch a 90-day pilot targeting 5% of existing Premium users to validate ARPU growth and referral commission opportunities.
 
+## AI Architecture Diagram
+
+[View the Wealth-Pilot Architecture (PDF)](wealth-pilot-architecture.pdf)
+
 ---
 
 This project was presented as part of my Business Strategy Internship at Gradence.
